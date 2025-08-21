@@ -1,0 +1,13 @@
+### Criar cliente metodo POST
+POST http://localhost/karenBastos/api_noite/api_noite.php
+Content-Type: application/json
+
+{
+    "nome": "JJosao",
+    "email": "xkskss@example.com",
+    "senha": "senha123",
+    "telefone": "123456-789aA",
+    "endereco": "Rua A, 123",
+    "estado": "MG",
+    "data_nascimento": "1990-02-11"
+}
